@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - ground
+  - normal ladders
+  - start ladders
+  - player
+  - background
+  - jump tiles
+  - loseheath
+  - moveAI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: moveAI
+    uniqueID: 3043102313
+    locked: 0
+  - name: background
+    uniqueID: 3518934261
+    locked: 0
+  - name: ladders
+    uniqueID: 801676697
+    locked: 0
+  - name: jump tiles
+    uniqueID: 4018147487
+    locked: 0
+  - name: player
+    uniqueID: 1459058767
+    locked: 0
+  - name: traps
+    uniqueID: 3011438663
+    locked: 0
+  - name: enemys
+    uniqueID: 391262361
+    locked: 0
+  - name: foreground
+    uniqueID: 920052637
+    locked: 0
+  - name: UI
+    uniqueID: 253653599
+    locked: 0
